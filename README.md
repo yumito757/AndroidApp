@@ -1,5 +1,5 @@
 # AndroidApp
-{First Android App
+First Android App
 
 using System.IO;
 using Android.App;
@@ -7,7 +7,7 @@ using Android.OS;
 using Android.Widget;
 
 
-
+if (ignore this part){
 namespace App1
 {
     [Activity(Label = "Men's Hair Selector(HOME)", MainLauncher = false, Icon = "@drawable/icon")]
@@ -61,4 +61,5 @@ namespace App1
         }
     }
 
-}}
+}
+}
