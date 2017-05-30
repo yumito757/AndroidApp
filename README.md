@@ -20,6 +20,7 @@ namespace App1
             var filePath = System.IO.Path.Combine(sdCardPath, "MyTextFile.txt");
             DirectoryInfo[] cDirs = new DirectoryInfo(@sdCardPath).GetDirectories();
             var registeremailinput = FindViewById<EditText>(Resource.Id.RegisterEmailInput);
+            
 
             if (!System.IO.File.Exists(filePath))
             {
