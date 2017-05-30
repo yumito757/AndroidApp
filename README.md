@@ -1,5 +1,7 @@
 # AndroidApp
 First Android App
+
+
 namespace App1
 {
     [Activity(Label = "Men's Hair Selector(HOME)", MainLauncher = false, Icon = "@drawable/icon")]
