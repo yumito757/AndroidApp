@@ -6,6 +6,9 @@ using Android.App;
 using Android.OS;
 using Android.Widget;
 
+namespace App1
+{
+}
 
 namespace App1
 {
