@@ -2,12 +2,10 @@
 First Android App
 
 using System.IO;
-
 using Android.App;
 using Android.OS;
 using Android.Widget;
 
-private ignore this part
 
 namespace App1
 {
